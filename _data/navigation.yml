@@ -1,0 +1,11 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Maps"
+    url: /maps/
+  - title: "Current Projects"
+    url: /current_projects/
+  - title: "Reports"
+    url: /reports/
+  - title: "Resume"
+    url: /resume/
