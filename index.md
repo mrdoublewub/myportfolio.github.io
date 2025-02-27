@@ -2,5 +2,12 @@
 layout: default
 title: Home
 ---
-# This is it
-yeak ok now?
+# Introduction {#intro}
+intro
+### Jump to:
+- [Features](#features)
+- [Contact](#contact)
+
+## Features {#features}
+
+## Contact {#contact}
