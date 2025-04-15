@@ -19,8 +19,9 @@ In this project I was tasked with delineating a watershed as part of my Advanced
 ![]()
 
 ## ArcGIS Pro: Raster Modeling
-
 ### Habitat Suitability (ArcPython)
+For the final project of my Python for ArcGIS class we were tasked with putting together a script or standalone tool that would accomplish some task that would be better executed by hand than with code. During my time at Utah State I had the opportunity to teach on the Introduction to Geographic Information Sciences team as an Undergraduate Teaching Fellow. Part of my responsibilities for this position were to help students complete lab assignments. Due to the introductory nature of this course many of the assignments were simple cookbook projects, but the Northern Gannet Habitat Suitability lab was assigned as a difficult task. The process of the lab includes several narrowing selections and geoprocessing tools to finally identify suitable nesting sites for the Northern Gannet in Maine.
+![Each step modelled using ArcGIS Pro Model Builder]()
 
 ### Temperature Modeling
 
