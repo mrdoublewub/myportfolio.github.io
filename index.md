@@ -15,6 +15,15 @@ The code for the project produced three linear trend models and several visual l
 | ![Alt text](gee.png)               | ![](ee-chart.png)                  |
 |------------------------------------|------------------------------------|
 
+<div style="display: flex; gap: 10px;">
+  <div style="width: 200px; height: 200px; overflow: hidden;">
+    <img src="gee.png" style="width: 100%; height: auto;" alt="Image 1">
+  </div>
+  <div style="width: 200px; height: 200px; overflow: hidden;">
+    <img src="ee-chart.png" style="width: 100%; height: auto;" alt="Image 2">
+  </div>
+</div>
+
 ## ArcGIS Pro: Hydrologic Analyses
 
 ## ArcGIS Pro: Raster Modeling
