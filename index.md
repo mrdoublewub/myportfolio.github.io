@@ -14,7 +14,7 @@ This project, which served as my final project for a course called Applied Remot
 The code for the project produced three linear trend models and several visual layers, but here is the graph for the Harmonic Model (because of the cyclical nature of NDVI, a proxy for Net Primary Productivity). Shown here is an image where the RBG values are set to phase (hue), amplitude (saturation), and NDVI (value), respectively. Also shown is the Harmonic Model trend over time. 
 | ![Alt text](gee.png)               | ![](ee-chart.png)                  |
 |------------------------------------|------------------------------------|
-| <img src="gee.png" width="300"> | <img src="ee-chart.png" width="300"> |
+
 ## ArcGIS Pro: Hydrologic Analyses
 
 ## ArcGIS Pro: Raster Modeling
