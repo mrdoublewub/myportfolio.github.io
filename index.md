@@ -34,4 +34,4 @@ The final project for my Advanced GIS and Remote Sensing class was on a topic of
 Email: [mrdoublewub52@gmail.com](mailto:mrdoublewub52@gmail.com)
 GitHub: [MrDoubleWub](https://github.com/mrdoublewub)
 ## Resume
-![My latest resume](genres(11Feb25).pdf)
+![My latest resume](genres11Feb25.pdf)
