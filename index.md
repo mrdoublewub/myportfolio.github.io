@@ -26,11 +26,12 @@ For the final project of my Python for ArcGIS class we were tasked with putting 
 ### Temperature Modeling
 The final project for my Advanced GIS and Remote Sensing class was on a topic of my choosing. I enjoy backcountry skiing, and am interested in better predicting avalanche zones and hazards based on weather conditions to be able to more safely recreate. It turned out that I was able to pull a lot of the variables together, but the computation and analysis was outside the scope of the final project for my course. So, I simplified things to see if I could accurately model a temperature surface in a mountainous area using data from several weather stations and a USGS QL1 0.5m LiDAR dataset. To make a long story short, I needed to review some statistical principles before going ahead with my analysis. My results are presented in an ESRI [StoryMap](https://storymaps.arcgis.com/stories/9fd910f4b2d0474ab434e449da29b507).
 
-## Data Visualization
+<!--## Data Visualization
 ### General Principles of Design
 
-### Final Product
+### Final Product-->
 # Contact {#contact}
-Main contact information here
+Email: [mrdoublewub52@gmail.com](mailto:mrdoublewub52@gmail.com)
+GitHub: [MrDoubleWub](https://github.com/mrdoublewub)
 ## Resume
 Put resume here
