@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 # Introduction {#intro}
-About me insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here
+Hi! This page serves as my portfolio. Here are some examples of the work that I have done in my undergrad at Utah State. I completed my B.S. in Forest Ecology & Management with a Professional Certificate in Applied Geographic Information Sciences. In my free time I like to do anything that has to do with Star Wars, the outdoors, or spending time with good people. I am currently employed by Weyerhaeuser and am stationed in Longview, WA.
 #### Jump to:
 [Projects](#projects) | [Contact](#contact)
 # Projects {#projects}
@@ -24,6 +24,8 @@ For the final project of my Python for ArcGIS class we were tasked with putting 
 ![Each step modelled using ArcGIS Pro Model Builder](model.png)
 
 ### Temperature Modeling
+The final project for my Advanced GIS and Remote Sensing class was on a topic of my choosing. I enjoy backcountry skiing, and am interested in better predicting avalanche zones and hazards based on weather conditions to be able to more safely recreate. It turned out that I was able to pull a lot of the variables together, but the computation and analysis was outside the scope of the final project for my course. So, I simplified things to see if I could accurately model a temperature surface in a mountainous area using data from several weather stations and a USGS QL1 0.5m LiDAR dataset. To make a long story short, I needed to review some statistical principles before going ahead with my analysis, but my results are presented in an ESRI StoryMap below.
+<iframe src="[https://storymaps.arcgis.com](https://storymaps.arcgis.com/stories/9fd910f4b2d0474ab434e449da29b507)" width="800" height="600" style="border:none;"></iframe>
 
 ## Data Visualization
 ### General Principles of Design
